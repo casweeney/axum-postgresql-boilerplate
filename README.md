@@ -1,1 +1,1 @@
-# Axum Postgres Boilerplate
+# Axum PostgreSQL Boilerplate
